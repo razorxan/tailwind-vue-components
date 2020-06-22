@@ -1,5 +1,7 @@
 # tailwind-vue-components
 
+# A Vue components collection built with tailwind
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +22,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
